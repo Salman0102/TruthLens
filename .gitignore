@@ -1,0 +1,15 @@
+
+# Python environment
+venv/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Local database
+truthlens_history.db
+
+# Temporary files
+*.log
+.ipynb_checkpoints/
